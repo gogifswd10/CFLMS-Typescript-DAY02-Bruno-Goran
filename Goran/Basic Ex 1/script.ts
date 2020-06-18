@@ -1,7 +1,7 @@
 let numbers : Array<number> = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-	 let res = " ";
-	 let i = " ";
-	 let j = " ";
+	 // let res = " ";
+	 // let i = " ";
+	 // let j = " ";
 function molimTe() {
 
 		numbers.forEach(function(i=0) {
@@ -16,6 +16,7 @@ function molimTe() {
 	}
 
 };
+
 molimTe(numbers); 
 
 
